@@ -10,10 +10,8 @@ To read more about the analysis:
 ## Features
 - ✅ Preprocessing pipeline for medical datasets (clinical + lifestyle factors)  
 - ✅ Feature selection using **RFE** and **PFI**  
-- ✅ Multiple ML models implemented (Logistic Regression, Random Forest, XGBoost, etc.)  
-- ✅ Evaluation with **accuracy, precision, recall, F1-score, ROC-AUC**  
+- ✅ Multiple ML models implemented (Logistic Regression, Random Forest, etc.)  
+- ✅ Evaluation with **accuracy, precision, recall, F1-score, and other metrics**  
 - ✅ Research-backed methodology validated in a peer-reviewed publication  
 
 ---
-
-## Project Structure
